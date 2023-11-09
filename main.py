@@ -11,6 +11,7 @@ print('''
 \____|__  /\____/|__|  /____  >\___  >  \______  /\____/\____ |\___  >
         \/                  \/     \/          \/            \/    \/ 
 
+by Larrenz Carino
       ''')
 
 print('Welcome to my text to morse_code program')
